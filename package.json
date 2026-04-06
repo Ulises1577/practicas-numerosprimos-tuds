@@ -1,0 +1,21 @@
+{
+  "name": "practicas-numerosprimos-tuds",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Ulises1577/practicas-numerosprimos-tuds#readme",
+  "bugs": {
+    "url": "https://github.com/Ulises1577/practicas-numerosprimos-tuds/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulises1577/practicas-numerosprimos-tuds.git"
+  },
+  "license": "MIT",
+  "author": "Ulises Manrique",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
